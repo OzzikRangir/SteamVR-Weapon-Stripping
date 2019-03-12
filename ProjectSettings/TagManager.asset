@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - projectile
+  - Magazynek
+  - Kolba
+  - "Bezpiecznik/prze\u0142\u0105cznik rodzaju ognia"
+  - "Suwad\u0142o z r\u0105czk\u0105"
+  - Komora zamkowa
+  - Pokrywa komory zamkowej
+  - "\u0141o\u017Ce"
+  - "R\u0119koje\u015B\u0107"
+  - "Rura gazowa z nak\u0142adk\u0105"
+  - Lufa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

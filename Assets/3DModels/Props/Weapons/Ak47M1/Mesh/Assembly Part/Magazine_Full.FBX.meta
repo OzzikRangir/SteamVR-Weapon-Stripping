@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 9019abaedce84ef41a731cafea28df67
+timeCreated: 1487849092
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ak10_Follower
+    100002: Ak10_Magazine
+    100004: Ak10_Magazine_plate
+    100006: Ak10_Magazine_plate_lock
+    100008: Ak16_Follower spring
+    100010: Bullet
+    100012: Bullet 1
+    100014: Bullet 10
+    100016: Bullet 11
+    100018: Bullet 12
+    100020: Bullet 13
+    100022: Bullet 14
+    100024: Bullet 15
+    100026: Bullet 16
+    100028: Bullet 17
+    100030: Bullet 18
+    100032: Bullet 19
+    100034: Bullet 2
+    100036: Bullet 20
+    100038: Bullet 21
+    100040: Bullet 22
+    100042: Bullet 23
+    100044: Bullet 24
+    100046: Bullet 25
+    100048: Bullet 26
+    100050: Bullet 27
+    100052: Bullet 28
+    100054: Bullet 29
+    100056: Bullet 3
+    100058: Bullet 4
+    100060: Bullet 5
+    100062: Bullet 6
+    100064: Bullet 7
+    100066: Bullet 8
+    100068: Bullet 9
+    100070: //RootNode
+    100072: Shell
+    100074: Shell 1
+    100076: Shell 10
+    100078: Shell 11
+    100080: Shell 12
+    100082: Shell 13
+    100084: Shell 14
+    100086: Shell 15
+    100088: Shell 16
+    100090: Shell 17
+    100092: Shell 18
+    100094: Shell 19
+    100096: Shell 2
+    100098: Shell 20
+    100100: Shell 21
+    100102: Shell 22
+    100104: Shell 23
+    100106: Shell 24
+    100108: Shell 25
+    100110: Shell 26
+    100112: Shell 27
+    100114: Shell 28
+    100116: Shell 29
+    100118: Shell 3
+    100120: Shell 4
+    100122: Shell 5
+    100124: Shell 6
+    100126: Shell 7
+    100128: Shell 8
+    100130: Shell 9
+    400000: Ak10_Follower
+    400002: Ak10_Magazine
+    400004: Ak10_Magazine_plate
+    400006: Ak10_Magazine_plate_lock
+    400008: Ak16_Follower spring
+    400010: Bullet
+    400012: Bullet 1
+    400014: Bullet 10
+    400016: Bullet 11
+    400018: Bullet 12
+    400020: Bullet 13
+    400022: Bullet 14
+    400024: Bullet 15
+    400026: Bullet 16
+    400028: Bullet 17
+    400030: Bullet 18
+    400032: Bullet 19
+    400034: Bullet 2
+    400036: Bullet 20
+    400038: Bullet 21
+    400040: Bullet 22
+    400042: Bullet 23
+    400044: Bullet 24
+    400046: Bullet 25
+    400048: Bullet 26
+    400050: Bullet 27
+    400052: Bullet 28
+    400054: Bullet 29
+    400056: Bullet 3
+    400058: Bullet 4
+    400060: Bullet 5
+    400062: Bullet 6
+    400064: Bullet 7
+    400066: Bullet 8
+    400068: Bullet 9
+    400070: //RootNode
+    400072: Shell
+    400074: Shell 1
+    400076: Shell 10
+    400078: Shell 11
+    400080: Shell 12
+    400082: Shell 13
+    400084: Shell 14
+    400086: Shell 15
+    400088: Shell 16
+    400090: Shell 17
+    400092: Shell 18
+    400094: Shell 19
+    400096: Shell 2
+    400098: Shell 20
+    400100: Shell 21
+    400102: Shell 22
+    400104: Shell 23
+    400106: Shell 24
+    400108: Shell 25
+    400110: Shell 26
+    400112: Shell 27
+    400114: Shell 28
+    400116: Shell 29
+    400118: Shell 3
+    400120: Shell 4
+    400122: Shell 5
+    400124: Shell 6
+    400126: Shell 7
+    400128: Shell 8
+    400130: Shell 9
+    2300000: Ak10_Follower
+    2300002: Ak10_Magazine
+    2300004: Ak10_Magazine_plate
+    2300006: Ak10_Magazine_plate_lock
+    2300008: Ak16_Follower spring
+    2300010: Bullet
+    2300012: Bullet 1
+    2300014: Bullet 10
+    2300016: Bullet 11
+    2300018: Bullet 12
+    2300020: Bullet 13
+    2300022: Bullet 14
+    2300024: Bullet 15
+    2300026: Bullet 16
+    2300028: Bullet 17
+    2300030: Bullet 18
+    2300032: Bullet 19
+    2300034: Bullet 2
+    2300036: Bullet 20
+    2300038: Bullet 21
+    2300040: Bullet 22
+    2300042: Bullet 23
+    2300044: Bullet 24
+    2300046: Bullet 25
+    2300048: Bullet 26
+    2300050: Bullet 27
+    2300052: Bullet 28
+    2300054: Bullet 29
+    2300056: Bullet 3
+    2300058: Bullet 4
+    2300060: Bullet 5
+    2300062: Bullet 6
+    2300064: Bullet 7
+    2300066: Bullet 8
+    2300068: Bullet 9
+    2300070: Shell
+    2300072: Shell 1
+    2300074: Shell 10
+    2300076: Shell 11
+    2300078: Shell 12
+    2300080: Shell 13
+    2300082: Shell 14
+    2300084: Shell 15
+    2300086: Shell 16
+    2300088: Shell 17
+    2300090: Shell 18
+    2300092: Shell 19
+    2300094: Shell 2
+    2300096: Shell 20
+    2300098: Shell 21
+    2300100: Shell 22
+    2300102: Shell 23
+    2300104: Shell 24
+    2300106: Shell 25
+    2300108: Shell 26
+    2300110: Shell 27
+    2300112: Shell 28
+    2300114: Shell 29
+    2300116: Shell 3
+    2300118: Shell 4
+    2300120: Shell 5
+    2300122: Shell 6
+    2300124: Shell 7
+    2300126: Shell 8
+    2300128: Shell 9
+    3300000: Ak10_Follower
+    3300002: Ak10_Magazine
+    3300004: Ak10_Magazine_plate
+    3300006: Ak10_Magazine_plate_lock
+    3300008: Ak16_Follower spring
+    3300010: Bullet
+    3300012: Bullet 1
+    3300014: Bullet 10
+    3300016: Bullet 11
+    3300018: Bullet 12
+    3300020: Bullet 13
+    3300022: Bullet 14
+    3300024: Bullet 15
+    3300026: Bullet 16
+    3300028: Bullet 17
+    3300030: Bullet 18
+    3300032: Bullet 19
+    3300034: Bullet 2
+    3300036: Bullet 20
+    3300038: Bullet 21
+    3300040: Bullet 22
+    3300042: Bullet 23
+    3300044: Bullet 24
+    3300046: Bullet 25
+    3300048: Bullet 26
+    3300050: Bullet 27
+    3300052: Bullet 28
+    3300054: Bullet 29
+    3300056: Bullet 3
+    3300058: Bullet 4
+    3300060: Bullet 5
+    3300062: Bullet 6
+    3300064: Bullet 7
+    3300066: Bullet 8
+    3300068: Bullet 9
+    3300070: Shell
+    3300072: Shell 1
+    3300074: Shell 10
+    3300076: Shell 11
+    3300078: Shell 12
+    3300080: Shell 13
+    3300082: Shell 14
+    3300084: Shell 15
+    3300086: Shell 16
+    3300088: Shell 17
+    3300090: Shell 18
+    3300092: Shell 19
+    3300094: Shell 2
+    3300096: Shell 20
+    3300098: Shell 21
+    3300100: Shell 22
+    3300102: Shell 23
+    3300104: Shell 24
+    3300106: Shell 25
+    3300108: Shell 26
+    3300110: Shell 27
+    3300112: Shell 28
+    3300114: Shell 29
+    3300116: Shell 3
+    3300118: Shell 4
+    3300120: Shell 5
+    3300122: Shell 6
+    3300124: Shell 7
+    3300126: Shell 8
+    3300128: Shell 9
+    4300000: Ak10_Magazine_plate
+    4300002: Ak10_Magazine_plate_lock
+    4300004: Ak16_Follower spring
+    4300006: Ak10_Follower
+    4300008: Ak10_Magazine
+    4300010: Shell
+    4300012: Bullet
+    4300014: Shell
+    4300016: Bullet
+    4300018: Shell
+    4300020: Bullet
+    4300022: Shell
+    4300024: Bullet
+    4300026: Shell
+    4300028: Bullet
+    4300030: Shell
+    4300032: Bullet
+    4300034: Shell
+    4300036: Bullet
+    4300038: Shell
+    4300040: Bullet
+    4300042: Shell
+    4300044: Bullet
+    4300046: Shell
+    4300048: Bullet
+    4300050: Shell
+    4300052: Bullet
+    4300054: Shell
+    4300056: Bullet
+    4300058: Shell
+    4300060: Bullet
+    4300062: Shell
+    4300064: Bullet
+    4300066: Shell
+    4300068: Bullet
+    4300070: Shell
+    4300072: Bullet
+    4300074: Shell
+    4300076: Bullet
+    4300078: Shell
+    4300080: Bullet
+    4300082: Shell
+    4300084: Bullet
+    4300086: Shell
+    4300088: Bullet
+    4300090: Shell
+    4300092: Bullet
+    4300094: Shell
+    4300096: Bullet
+    4300098: Shell
+    4300100: Bullet
+    4300102: Shell
+    4300104: Bullet
+    4300106: Shell
+    4300108: Bullet
+    4300110: Shell
+    4300112: Bullet
+    4300114: Shell
+    4300116: Bullet
+    4300118: Shell
+    4300120: Bullet
+    4300122: Shell
+    4300124: Bullet
+    4300126: Shell
+    4300128: Bullet
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 3ae783c165ff9864db488aeb52db10e2
+timeCreated: 1481461006
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ak01_Lower_handguard
+    100002: Ak01_Pistol_frip
+    100004: Ak01_Stock
+    100006: Ak01_Upper_handguard
+    100008: Ak02_Receiver
+    100010: Ak03_Receiver_cover
+    100012: Ak04_Elevating_slide_catch
+    100014: Ak04_Gas_tube_latch
+    100016: Ak04_Rear_sight_base
+    100018: Ak04_Rear_sight_elevating_slide
+    100020: Ak04_Rear_sight_leaf
+    100022: Ak04_Rear_sight_leaf_pin
+    100024: Ak04_Rear_sight_spring
+    100026: Ak05_Barrel_trunion
+    100028: Ak06_Gas_pison_tube
+    100030: Ak06_Gas_pison_tube 1
+    100032: Ak06_Handguard_base
+    100034: Ak06_Handguard_latch
+    100036: Ak06_Handguard_retainer
+    100038: Ak06_Lower_handguard_clamp
+    100040: Ak07_Front_swivel
+    100042: Ak07_Gas_pison_tube
+    100044: Ak07_Gas_port
+    100046: Ak07_Gas_port_pins
+    100048: Ak07_Upper_handguard_clamp
+    100050: Ak08_Barrel_retainer
+    100052: Ak08_Front_sight_ajusting_block
+    100054: Ak08_Front_sight_base
+    100056: Ak08_Front_sight_base_pins
+    100058: Ak08_Front_sight_post
+    100060: Ak08_Retainer_lock
+    100062: Ak09_Barrel
+    100064: Ak09_Cleaning_rod
+    100066: Ak10_Follower
+    100068: Ak10_Magazine
+    100070: Ak10_Magazine_plate
+    100072: Ak10_Magazine_plate_lock
+    100074: Ak11_Pistol_grip_base
+    100076: Ak11_Pistol_grip_screw
+    100078: Ak11_Rear_trunion
+    100080: Ak11_Receiver
+    100082: Ak11_Selector_plate
+    100084: Ak11_Selector_plate_polt
+    100086: Ak11_Selector_plate_screw
+    100088: Ak11_Spacer
+    100090: Ak11_Stock_screw
+    100092: Ak12_Auto_sear_pin
+    100094: Ak12_Barrel_trunion_rivets
+    100096: Ak12_Buttplate
+    100098: Ak12_Hammer_pin
+    100100: Ak12_Magazine_latch
+    100102: Ak12_Magazine_latch_pin
+    100104: Ak12_Rear_swivel
+    100106: Ak12_Rear_swivel_screw
+    100108: Ak12_Rear_trunion_pin
+    100110: Ak12_Receiver_rivets
+    100112: Ak12_Trigger_pin
+    100114: Ak13_Bolt_carrier
+    100116: Ak13_Gas_piston
+    100118: Ak13_Gas_piston_pin
+    100120: Ak14_Bolt
+    100122: Ak14_Extractor
+    100124: Ak14_Fining_pin
+    100126: Ak14_Recpil_spring_guide
+    100128: Ak14_Recpil_spring_strut
+    100130: Ak15_Auto_sear
+    100132: Ak15_Hammer
+    100134: Ak15_Plate
+    100136: Ak15_Plate_rivet
+    100138: Ak15_Sear
+    100140: Ak15_Selector
+    100142: Ak15_Spacer
+    100144: Ak15_Trigger
+    100146: Ak16_Auto_sear_spring
+    100148: Ak16_Follower spring
+    100150: Ak16_Main_spring
+    100152: Ak16_Recoil_spring
+    100154: //RootNode
+    100156: Ak12_Battplate_cover_pin
+    100158: Ak12_Buttplate_Cover_Base
+    100160: Ak12_Buttplate_Cover_Lower
+    100162: Ak14_Extractor_Pin
+    100164: Ak14_Retainer
+    100166: Ak16_Accessories_Spring
+    100168: Ak16_Elivating_Slide_Catch_Spring
+    100170: Ak16_Extractor_Spring
+    100172: Ak16_Lock_Spring
+    100174: Ak16_Magazine_Latch_Spring
+    100176: Ak16_Sear_Spring
+    100178: Ak17_Accessories_Case
+    100180: Ak17_Accessories_Case_Cap
+    100182: Ak17_Bore_Brush
+    100184: Ak17_Buttplate_Cover_Lower_rivets
+    100186: Ak17_Buttplate_Screw
+    100188: Ak17_Planer
+    100190: Ak17_Temporary_Axis
+    100192: Ak17_Turn_Screw
+    400000: Ak01_Lower_handguard
+    400002: Ak01_Pistol_frip
+    400004: Ak01_Stock
+    400006: Ak01_Upper_handguard
+    400008: Ak02_Receiver
+    400010: Ak03_Receiver_cover
+    400012: Ak04_Elevating_slide_catch
+    400014: Ak04_Gas_tube_latch
+    400016: Ak04_Rear_sight_base
+    400018: Ak04_Rear_sight_elevating_slide
+    400020: Ak04_Rear_sight_leaf
+    400022: Ak04_Rear_sight_leaf_pin
+    400024: Ak04_Rear_sight_spring
+    400026: Ak05_Barrel_trunion
+    400028: Ak06_Gas_pison_tube
+    400030: Ak06_Gas_pison_tube 1
+    400032: Ak06_Handguard_base
+    400034: Ak06_Handguard_latch
+    400036: Ak06_Handguard_retainer
+    400038: Ak06_Lower_handguard_clamp
+    400040: Ak07_Front_swivel
+    400042: Ak07_Gas_pison_tube
+    400044: Ak07_Gas_port
+    400046: Ak07_Gas_port_pins
+    400048: Ak07_Upper_handguard_clamp
+    400050: Ak08_Barrel_retainer
+    400052: Ak08_Front_sight_ajusting_block
+    400054: Ak08_Front_sight_base
+    400056: Ak08_Front_sight_base_pins
+    400058: Ak08_Front_sight_post
+    400060: Ak08_Retainer_lock
+    400062: Ak09_Barrel
+    400064: Ak09_Cleaning_rod
+    400066: Ak10_Follower
+    400068: Ak10_Magazine
+    400070: Ak10_Magazine_plate
+    400072: Ak10_Magazine_plate_lock
+    400074: Ak11_Pistol_grip_base
+    400076: Ak11_Pistol_grip_screw
+    400078: Ak11_Rear_trunion
+    400080: Ak11_Receiver
+    400082: Ak11_Selector_plate
+    400084: Ak11_Selector_plate_polt
+    400086: Ak11_Selector_plate_screw
+    400088: Ak11_Spacer
+    400090: Ak11_Stock_screw
+    400092: Ak12_Auto_sear_pin
+    400094: Ak12_Barrel_trunion_rivets
+    400096: Ak12_Buttplate
+    400098: Ak12_Hammer_pin
+    400100: Ak12_Magazine_latch
+    400102: Ak12_Magazine_latch_pin
+    400104: Ak12_Rear_swivel
+    400106: Ak12_Rear_swivel_screw
+    400108: Ak12_Rear_trunion_pin
+    400110: Ak12_Receiver_rivets
+    400112: Ak12_Trigger_pin
+    400114: Ak13_Bolt_carrier
+    400116: Ak13_Gas_piston
+    400118: Ak13_Gas_piston_pin
+    400120: Ak14_Bolt
+    400122: Ak14_Extractor
+    400124: Ak14_Fining_pin
+    400126: Ak14_Recpil_spring_guide
+    400128: Ak14_Recpil_spring_strut
+    400130: Ak15_Auto_sear
+    400132: Ak15_Hammer
+    400134: Ak15_Plate
+    400136: Ak15_Plate_rivet
+    400138: Ak15_Sear
+    400140: Ak15_Selector
+    400142: Ak15_Spacer
+    400144: Ak15_Trigger
+    400146: Ak16_Auto_sear_spring
+    400148: Ak16_Follower spring
+    400150: Ak16_Main_spring
+    400152: Ak16_Recoil_spring
+    400154: //RootNode
+    400156: Ak12_Battplate_cover_pin
+    400158: Ak12_Buttplate_Cover_Base
+    400160: Ak12_Buttplate_Cover_Lower
+    400162: Ak14_Extractor_Pin
+    400164: Ak14_Retainer
+    400166: Ak16_Accessories_Spring
+    400168: Ak16_Elivating_Slide_Catch_Spring
+    400170: Ak16_Extractor_Spring
+    400172: Ak16_Lock_Spring
+    400174: Ak16_Magazine_Latch_Spring
+    400176: Ak16_Sear_Spring
+    400178: Ak17_Accessories_Case
+    400180: Ak17_Accessories_Case_Cap
+    400182: Ak17_Bore_Brush
+    400184: Ak17_Buttplate_Cover_Lower_rivets
+    400186: Ak17_Buttplate_Screw
+    400188: Ak17_Planer
+    400190: Ak17_Temporary_Axis
+    400192: Ak17_Turn_Screw
+    2300000: Ak01_Lower_handguard
+    2300002: Ak01_Pistol_frip
+    2300004: Ak01_Stock
+    2300006: Ak01_Upper_handguard
+    2300008: Ak02_Receiver
+    2300010: Ak03_Receiver_cover
+    2300012: Ak04_Elevating_slide_catch
+    2300014: Ak04_Gas_tube_latch
+    2300016: Ak04_Rear_sight_base
+    2300018: Ak04_Rear_sight_elevating_slide
+    2300020: Ak04_Rear_sight_leaf
+    2300022: Ak04_Rear_sight_leaf_pin
+    2300024: Ak04_Rear_sight_spring
+    2300026: Ak05_Barrel_trunion
+    2300028: Ak06_Gas_pison_tube
+    2300030: Ak06_Gas_pison_tube 1
+    2300032: Ak06_Handguard_base
+    2300034: Ak06_Handguard_latch
+    2300036: Ak06_Handguard_retainer
+    2300038: Ak06_Lower_handguard_clamp
+    2300040: Ak07_Front_swivel
+    2300042: Ak07_Gas_pison_tube
+    2300044: Ak07_Gas_port
+    2300046: Ak07_Gas_port_pins
+    2300048: Ak07_Upper_handguard_clamp
+    2300050: Ak08_Barrel_retainer
+    2300052: Ak08_Front_sight_ajusting_block
+    2300054: Ak08_Front_sight_base
+    2300056: Ak08_Front_sight_base_pins
+    2300058: Ak08_Front_sight_post
+    2300060: Ak08_Retainer_lock
+    2300062: Ak09_Barrel
+    2300064: Ak09_Cleaning_rod
+    2300066: Ak10_Follower
+    2300068: Ak10_Magazine
+    2300070: Ak10_Magazine_plate
+    2300072: Ak10_Magazine_plate_lock
+    2300074: Ak11_Pistol_grip_base
+    2300076: Ak11_Pistol_grip_screw
+    2300078: Ak11_Rear_trunion
+    2300080: Ak11_Receiver
+    2300082: Ak11_Selector_plate
+    2300084: Ak11_Selector_plate_polt
+    2300086: Ak11_Selector_plate_screw
+    2300088: Ak11_Spacer
+    2300090: Ak11_Stock_screw
+    2300092: Ak12_Auto_sear_pin
+    2300094: Ak12_Barrel_trunion_rivets
+    2300096: Ak12_Buttplate
+    2300098: Ak12_Hammer_pin
+    2300100: Ak12_Magazine_latch
+    2300102: Ak12_Magazine_latch_pin
+    2300104: Ak12_Rear_swivel
+    2300106: Ak12_Rear_swivel_screw
+    2300108: Ak12_Rear_trunion_pin
+    2300110: Ak12_Receiver_rivets
+    2300112: Ak12_Trigger_pin
+    2300114: Ak13_Bolt_carrier
+    2300116: Ak13_Gas_piston
+    2300118: Ak13_Gas_piston_pin
+    2300120: Ak14_Bolt
+    2300122: Ak14_Extractor
+    2300124: Ak14_Fining_pin
+    2300126: Ak14_Recpil_spring_guide
+    2300128: Ak14_Recpil_spring_strut
+    2300130: Ak15_Auto_sear
+    2300132: Ak15_Hammer
+    2300134: Ak15_Plate
+    2300136: Ak15_Plate_rivet
+    2300138: Ak15_Sear
+    2300140: Ak15_Selector
+    2300142: Ak15_Spacer
+    2300144: Ak15_Trigger
+    2300146: Ak16_Auto_sear_spring
+    2300148: Ak16_Follower spring
+    2300150: Ak16_Main_spring
+    2300152: Ak16_Recoil_spring
+    2300154: Ak12_Battplate_cover_pin
+    2300156: Ak12_Buttplate_Cover_Base
+    2300158: Ak12_Buttplate_Cover_Lower
+    2300160: Ak14_Extractor_Pin
+    2300162: Ak14_Retainer
+    2300164: Ak16_Accessories_Spring
+    2300166: Ak16_Elivating_Slide_Catch_Spring
+    2300168: Ak16_Extractor_Spring
+    2300170: Ak16_Lock_Spring
+    2300172: Ak16_Magazine_Latch_Spring
+    2300174: Ak16_Sear_Spring
+    2300176: Ak17_Accessories_Case
+    2300178: Ak17_Accessories_Case_Cap
+    2300180: Ak17_Bore_Brush
+    2300182: Ak17_Buttplate_Cover_Lower_rivets
+    2300184: Ak17_Buttplate_Screw
+    2300186: Ak17_Planer
+    2300188: Ak17_Temporary_Axis
+    2300190: Ak17_Turn_Screw
+    3300000: Ak01_Lower_handguard
+    3300002: Ak01_Pistol_frip
+    3300004: Ak01_Stock
+    3300006: Ak01_Upper_handguard
+    3300008: Ak02_Receiver
+    3300010: Ak03_Receiver_cover
+    3300012: Ak04_Elevating_slide_catch
+    3300014: Ak04_Gas_tube_latch
+    3300016: Ak04_Rear_sight_base
+    3300018: Ak04_Rear_sight_elevating_slide
+    3300020: Ak04_Rear_sight_leaf
+    3300022: Ak04_Rear_sight_leaf_pin
+    3300024: Ak04_Rear_sight_spring
+    3300026: Ak05_Barrel_trunion
+    3300028: Ak06_Gas_pison_tube
+    3300030: Ak06_Gas_pison_tube 1
+    3300032: Ak06_Handguard_base
+    3300034: Ak06_Handguard_latch
+    3300036: Ak06_Handguard_retainer
+    3300038: Ak06_Lower_handguard_clamp
+    3300040: Ak07_Front_swivel
+    3300042: Ak07_Gas_pison_tube
+    3300044: Ak07_Gas_port
+    3300046: Ak07_Gas_port_pins
+    3300048: Ak07_Upper_handguard_clamp
+    3300050: Ak08_Barrel_retainer
+    3300052: Ak08_Front_sight_ajusting_block
+    3300054: Ak08_Front_sight_base
+    3300056: Ak08_Front_sight_base_pins
+    3300058: Ak08_Front_sight_post
+    3300060: Ak08_Retainer_lock
+    3300062: Ak09_Barrel
+    3300064: Ak09_Cleaning_rod
+    3300066: Ak10_Follower
+    3300068: Ak10_Magazine
+    3300070: Ak10_Magazine_plate
+    3300072: Ak10_Magazine_plate_lock
+    3300074: Ak11_Pistol_grip_base
+    3300076: Ak11_Pistol_grip_screw
+    3300078: Ak11_Rear_trunion
+    3300080: Ak11_Receiver
+    3300082: Ak11_Selector_plate
+    3300084: Ak11_Selector_plate_polt
+    3300086: Ak11_Selector_plate_screw
+    3300088: Ak11_Spacer
+    3300090: Ak11_Stock_screw
+    3300092: Ak12_Auto_sear_pin
+    3300094: Ak12_Barrel_trunion_rivets
+    3300096: Ak12_Buttplate
+    3300098: Ak12_Hammer_pin
+    3300100: Ak12_Magazine_latch
+    3300102: Ak12_Magazine_latch_pin
+    3300104: Ak12_Rear_swivel
+    3300106: Ak12_Rear_swivel_screw
+    3300108: Ak12_Rear_trunion_pin
+    3300110: Ak12_Receiver_rivets
+    3300112: Ak12_Trigger_pin
+    3300114: Ak13_Bolt_carrier
+    3300116: Ak13_Gas_piston
+    3300118: Ak13_Gas_piston_pin
+    3300120: Ak14_Bolt
+    3300122: Ak14_Extractor
+    3300124: Ak14_Fining_pin
+    3300126: Ak14_Recpil_spring_guide
+    3300128: Ak14_Recpil_spring_strut
+    3300130: Ak15_Auto_sear
+    3300132: Ak15_Hammer
+    3300134: Ak15_Plate
+    3300136: Ak15_Plate_rivet
+    3300138: Ak15_Sear
+    3300140: Ak15_Selector
+    3300142: Ak15_Spacer
+    3300144: Ak15_Trigger
+    3300146: Ak16_Auto_sear_spring
+    3300148: Ak16_Follower spring
+    3300150: Ak16_Main_spring
+    3300152: Ak16_Recoil_spring
+    3300154: Ak12_Battplate_cover_pin
+    3300156: Ak12_Buttplate_Cover_Base
+    3300158: Ak12_Buttplate_Cover_Lower
+    3300160: Ak14_Extractor_Pin
+    3300162: Ak14_Retainer
+    3300164: Ak16_Accessories_Spring
+    3300166: Ak16_Elivating_Slide_Catch_Spring
+    3300168: Ak16_Extractor_Spring
+    3300170: Ak16_Lock_Spring
+    3300172: Ak16_Magazine_Latch_Spring
+    3300174: Ak16_Sear_Spring
+    3300176: Ak17_Accessories_Case
+    3300178: Ak17_Accessories_Case_Cap
+    3300180: Ak17_Bore_Brush
+    3300182: Ak17_Buttplate_Cover_Lower_rivets
+    3300184: Ak17_Buttplate_Screw
+    3300186: Ak17_Planer
+    3300188: Ak17_Temporary_Axis
+    3300190: Ak17_Turn_Screw
+    4300000: Ak05_Barrel_trunion
+    4300002: Ak03_Receiver_cover
+    4300004: Ak02_Receiver
+    4300006: Ak01_Stock
+    4300008: Ak08_Front_sight_base
+    4300010: Ak09_Barrel
+    4300012: Ak07_Gas_port
+    4300014: Ak06_Handguard_retainer
+    4300016: Ak13_Bolt_carrier
+    4300018: Ak14_Recpil_spring_strut
+    4300020: Ak11_Selector_plate_screw
+    4300022: Ak12_Magazine_latch
+    4300024: Ak04_Rear_sight_leaf
+    4300026: Ak15_Sear
+    4300028: Ak16_Recoil_spring
+    4300030: Ak01_Pistol_frip
+    4300032: Ak01_Lower_handguard
+    4300034: Ak01_Upper_handguard
+    4300036: Ak08_Front_sight_ajusting_block
+    4300038: Ak08_Front_sight_post
+    4300040: Ak08_Barrel_retainer
+    4300042: Ak08_Retainer_lock
+    4300044: Ak08_Front_sight_base_pins
+    4300046: Ak09_Cleaning_rod
+    4300048: Ak07_Gas_port_pins
+    4300050: Ak07_Front_swivel
+    4300052: Ak07_Gas_pison_tube
+    4300054: Ak07_Upper_handguard_clamp
+    4300056: Ak06_Lower_handguard_clamp
+    4300058: Ak06_Gas_pison_tube
+    4300060: Ak06_Gas_pison_tube
+    4300062: Ak06_Handguard_base
+    4300064: Ak06_Handguard_latch
+    4300066: Ak13_Gas_piston
+    4300068: Ak13_Gas_piston_pin
+    4300070: Ak16_Main_spring
+    4300072: Ak16_Auto_sear_spring
+    4300074: Ak14_Recpil_spring_guide
+    4300076: Ak14_Bolt
+    4300078: Ak14_Extractor
+    4300080: Ak14_Fining_pin
+    4300082: Ak04_Gas_tube_latch
+    4300084: Ak04_Rear_sight_base
+    4300086: Ak04_Rear_sight_spring
+    4300088: Ak04_Rear_sight_leaf_pin
+    4300090: Ak04_Elevating_slide_catch
+    4300092: Ak04_Rear_sight_elevating_slide
+    4300094: Ak11_Stock_screw
+    4300096: Ak11_Selector_plate
+    4300098: Ak11_Pistol_grip_screw
+    4300100: Ak11_Receiver
+    4300102: Ak11_Pistol_grip_base
+    4300104: Ak11_Rear_trunion
+    4300106: Ak11_Spacer
+    4300108: Ak11_Selector_plate_polt
+    4300110: Ak12_Buttplate
+    4300112: Ak12_Rear_swivel
+    4300114: Ak12_Rear_swivel_screw
+    4300116: Ak12_Barrel_trunion_rivets
+    4300118: Ak12_Receiver_rivets
+    4300120: Ak12_Auto_sear_pin
+    4300122: Ak12_Hammer_pin
+    4300124: Ak12_Trigger_pin
+    4300126: Ak12_Rear_trunion_pin
+    4300128: Ak12_Magazine_latch_pin
+    4300130: Ak15_Plate_rivet
+    4300132: Ak15_Plate
+    4300134: Ak15_Trigger
+    4300136: Ak15_Spacer
+    4300138: Ak15_Selector
+    4300140: Ak15_Auto_sear
+    4300142: Ak15_Hammer
+    4300144: Ak10_Magazine
+    4300146: Ak10_Follower
+    4300148: Ak16_Follower spring
+    4300150: Ak10_Magazine_plate
+    4300152: Ak10_Magazine_plate_lock
+    4300154: Ak17_Accessories_Case
+    4300156: Ak12_Battplate_cover_pin
+    4300158: Ak12_Buttplate_Cover_Lower
+    4300160: Ak12_Buttplate_Cover_Base
+    4300162: Ak17_Buttplate_Screw
+    4300164: Ak17_Buttplate_Cover_Lower_rivets
+    4300166: Ak16_Lock_Spring
+    4300168: Ak16_Elivating_Slide_Catch_Spring
+    4300170: Ak14_Retainer
+    4300172: Ak16_Magazine_Latch_Spring
+    4300174: Ak16_Accessories_Spring
+    4300176: Ak16_Sear_Spring
+    4300178: Ak16_Extractor_Spring
+    4300180: Ak14_Extractor_Pin
+    4300182: Ak17_Planer
+    4300184: Ak17_Temporary_Axis
+    4300186: Ak17_Turn_Screw
+    4300188: Ak17_Bore_Brush
+    4300190: Ak17_Accessories_Case_Cap
+    7400000: Fully desassembled
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fully desassembled
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ak01_Lower_handguard
+        weight: 1
+      - path: Ak01_Pistol_frip
+        weight: 1
+      - path: Ak01_Stock
+        weight: 1
+      - path: Ak01_Upper_handguard
+        weight: 1
+      - path: Ak02_Receiver
+        weight: 1
+      - path: Ak03_Receiver_cover
+        weight: 1
+      - path: Ak04_Elevating_slide_catch
+        weight: 1
+      - path: Ak04_Gas_tube_latch
+        weight: 1
+      - path: Ak04_Rear_sight_base
+        weight: 1
+      - path: Ak04_Rear_sight_elevating_slide
+        weight: 1
+      - path: Ak04_Rear_sight_leaf
+        weight: 1
+      - path: Ak04_Rear_sight_leaf_pin
+        weight: 1
+      - path: Ak04_Rear_sight_spring
+        weight: 1
+      - path: Ak05_Barrel_trunion
+        weight: 1
+      - path: Ak06_Gas_pison_tube
+        weight: 1
+      - path: Ak06_Gas_pison_tube 1
+        weight: 1
+      - path: Ak06_Handguard_base
+        weight: 1
+      - path: Ak06_Handguard_latch
+        weight: 1
+      - path: Ak06_Handguard_retainer
+        weight: 1
+      - path: Ak06_Lower_handguard_clamp
+        weight: 1
+      - path: Ak07_Front_swivel
+        weight: 1
+      - path: Ak07_Gas_pison_tube
+        weight: 1
+      - path: Ak07_Gas_port
+        weight: 1
+      - path: Ak07_Gas_port_pins
+        weight: 1
+      - path: Ak07_Upper_handguard_clamp
+        weight: 1
+      - path: Ak08_Barrel_retainer
+        weight: 1
+      - path: Ak08_Front_sight_ajusting_block
+        weight: 1
+      - path: Ak08_Front_sight_base
+        weight: 1
+      - path: Ak08_Front_sight_base_pins
+        weight: 1
+      - path: Ak08_Front_sight_post
+        weight: 1
+      - path: Ak08_Retainer_lock
+        weight: 1
+      - path: Ak09_Barrel
+        weight: 1
+      - path: Ak09_Cleaning_rod
+        weight: 1
+      - path: Ak10_Follower
+        weight: 1
+      - path: Ak10_Magazine
+        weight: 1
+      - path: Ak10_Magazine_plate
+        weight: 1
+      - path: Ak10_Magazine_plate_lock
+        weight: 1
+      - path: Ak11_Pistol_grip_base
+        weight: 1
+      - path: Ak11_Pistol_grip_screw
+        weight: 1
+      - path: Ak11_Rear_trunion
+        weight: 1
+      - path: Ak11_Receiver
+        weight: 1
+      - path: Ak11_Selector_plate
+        weight: 1
+      - path: Ak11_Selector_plate_polt
+        weight: 1
+      - path: Ak11_Selector_plate_screw
+        weight: 1
+      - path: Ak11_Spacer
+        weight: 1
+      - path: Ak11_Stock_screw
+        weight: 1
+      - path: Ak12_Auto_sear_pin
+        weight: 1
+      - path: Ak12_Barrel_trunion_rivets
+        weight: 1
+      - path: Ak12_Battplate_cover_pin
+        weight: 1
+      - path: Ak12_Buttplate
+        weight: 1
+      - path: Ak12_Buttplate_Cover_Base
+        weight: 1
+      - path: Ak12_Buttplate_Cover_Lower
+        weight: 1
+      - path: Ak12_Hammer_pin
+        weight: 1
+      - path: Ak12_Magazine_latch
+        weight: 1
+      - path: Ak12_Magazine_latch_pin
+        weight: 1
+      - path: Ak12_Rear_swivel
+        weight: 1
+      - path: Ak12_Rear_swivel_screw
+        weight: 1
+      - path: Ak12_Rear_trunion_pin
+        weight: 1
+      - path: Ak12_Receiver_rivets
+        weight: 1
+      - path: Ak12_Trigger_pin
+        weight: 1
+      - path: Ak13_Bolt_carrier
+        weight: 1
+      - path: Ak13_Gas_piston
+        weight: 1
+      - path: Ak13_Gas_piston_pin
+        weight: 1
+      - path: Ak14_Bolt
+        weight: 1
+      - path: Ak14_Extractor
+        weight: 1
+      - path: Ak14_Extractor_Pin
+        weight: 1
+      - path: Ak14_Fining_pin
+        weight: 1
+      - path: Ak14_Recpil_spring_guide
+        weight: 1
+      - path: Ak14_Recpil_spring_strut
+        weight: 1
+      - path: Ak14_Retainer
+        weight: 1
+      - path: Ak15_Auto_sear
+        weight: 1
+      - path: Ak15_Hammer
+        weight: 1
+      - path: Ak15_Plate
+        weight: 1
+      - path: Ak15_Plate_rivet
+        weight: 1
+      - path: Ak15_Sear
+        weight: 1
+      - path: Ak15_Selector
+        weight: 1
+      - path: Ak15_Spacer
+        weight: 1
+      - path: Ak15_Trigger
+        weight: 1
+      - path: Ak16_Accessories_Spring
+        weight: 1
+      - path: Ak16_Auto_sear_spring
+        weight: 1
+      - path: Ak16_Elivating_Slide_Catch_Spring
+        weight: 1
+      - path: Ak16_Extractor_Spring
+        weight: 1
+      - path: Ak16_Follower spring
+        weight: 1
+      - path: Ak16_Lock_Spring
+        weight: 1
+      - path: Ak16_Magazine_Latch_Spring
+        weight: 1
+      - path: Ak16_Main_spring
+        weight: 1
+      - path: Ak16_Recoil_spring
+        weight: 1
+      - path: Ak16_Sear_Spring
+        weight: 1
+      - path: Ak17_Accessories_Case
+        weight: 1
+      - path: Ak17_Accessories_Case_Cap
+        weight: 1
+      - path: Ak17_Bore_Brush
+        weight: 1
+      - path: Ak17_Buttplate_Cover_Lower_rivets
+        weight: 1
+      - path: Ak17_Buttplate_Screw
+        weight: 1
+      - path: Ak17_Planer
+        weight: 1
+      - path: Ak17_Temporary_Axis
+        weight: 1
+      - path: Ak17_Turn_Screw
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
